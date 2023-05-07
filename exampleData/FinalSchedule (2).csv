@@ -1,0 +1,9 @@
+Time,Mon(Room 1),Mon(Room 2),Mon(Room 3),Tue(Room 1),Tue(Room 2),Tue(Room 3),Wed(Room 1),Wed(Room 2),Wed(Room 3),Thu(Room 1),Thu(Room 2),Thu(Room 3),Fri(Room 1),Fri(Room 2),Fri(Room 3)
+9,[],[],[],['Emilie'],['Katherine'],[],['Katherine'],[],[],['Parth'],[],[],['Parth'],[],[]
+10,['Yami'],['Parth'],[],"['Emilie', 'Student 29']",['Katherine'],[],['Katherine'],['Yami'],[],['Parth'],[],[],['Parth'],['Yami'],[]
+11,"['Reshmi', 'Student 22']","['Madison', 'Student 13']",['Parth'],"['Emilie', 'Student 30']",['Katherine'],['Madison'],"['Katherine', 'Student 23']","['Tiffany', 'Student 25']",[],"['Tiffany', 'Student 18']",[],[],['Parth'],[],[]
+12,"['Kate', 'Student 12']",['Yami'],['Madison'],"['Michael', 'Student 27']","['Katherine', 'Student 2']",[],"['Emma', 'Student 15']",['Yami'],[],"['Michael', 'Student 24']",['Yami'],[],['Trista'],"['Yami', 'Student 6']","['Madison', 'Student 4']"
+1,"['Parth', 'Student 28']",['Yami'],"['Jazmyne', 'Student 8']",['Michael'],['Reshmi'],"['Jazmyne', 'Student 31']",['Emma'],['Yami'],['Jazmyne'],['Michael'],['Reshmi'],['Jazmyne'],['Trista'],['Yami'],[]
+2,"['Trista', 'Student 14']","['Reshmi', 'Student 33']",['Toni'],"['Toni', 'Student 26']",['Reshmi'],"['Sophia', 'Student 7']","['Toni', 'Student 16']",['Emma'],[],['Reshmi'],"['Kate', 'Student 10']",['Sophia'],"['Parth', 'Student 20']",[],[]
+3,"['Trista', 'Student 17']","['Sophia', 'Student 11']",['Toni'],['Toni'],[],[],['Toni'],"['Emma', 'Student 5']",[],['Emilie'],[],[],[],[],[]
+4,"['Yami', 'Student 3']",['Trista'],[],[],[],[],[],[],[],[],[],[],[],[],[]
