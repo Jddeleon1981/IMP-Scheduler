@@ -4,7 +4,7 @@ This project aimed to reduce the time behind the scheduling process for the Inte
 
 ## Table of Contents
 
--[Installation Requirements](#intallment-requirements)
+- [Installation Requirements](#intallment-requirements)
 - [Project Description](#project-description)
 - [File Descriptions](#file-descriptions)
 - [Usage](#usage)
