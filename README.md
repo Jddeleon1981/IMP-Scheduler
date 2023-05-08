@@ -1,5 +1,4 @@
 # IMP-Scheduler
-# KMeans-Imp.
 This project aimed to reduce the time behind the scheduling process for the Integrity Mentorship Program(IMP) at the Academic Integrity Office at UCSD. 
 
 ## Table of Contents
